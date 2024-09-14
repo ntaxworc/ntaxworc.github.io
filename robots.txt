@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntaxworc.github.io/sitemap.html.gz
+Sitemap: https://ntaxworc.github.io/app/sitemap.html.gz
+Sitemap: https://ntaxworc.github.io/assets/sitemap.html.gz
+Sitemap: https://ntaxworc.github.io/css/sitemap.html.gz
+Sitemap: https://ntaxworc.github.io/includes/sitemap.html.gz
+Sitemap: https://ntaxworc.github.io/item/sitemap.html.gz
+Sitemap: https://ntaxworc.github.io/src/sitemap.html.gz
